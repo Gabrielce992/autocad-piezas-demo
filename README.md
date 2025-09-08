@@ -12,7 +12,7 @@ Incluye la generación de **planos detallados**, vistas explosionadas y cotas pr
 
 ![Vista general](assets/Captura.JPG)  
 ![Vista general](assets/CaptuSSra.JPG)  
-![Vista general](assets/autocad-explosion.png)  
+![Vista general](assets/CaptSura.JPG)  
 ![Vista general](assets/CaptuSra.JPG)  
 ![Vista general](assets/Archivo.PNG)
 
