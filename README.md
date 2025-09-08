@@ -14,7 +14,7 @@ Incluye la generación de **planos detallados**, vistas explosionadas y cotas pr
 ![Vista general](assets/CaptuSSra.JPG)  
 ![Vista general](assets/autocad-explosion.png)  
 ![Vista general](assets/CaptuSra.JPG)  
-![Plano acotado](assets/Vista previa - Archivo Comprimido(170MB) -Castañeda.PNG)
+![Vista general](assets/Vista previa - Archivo Comprimido(170MB) -Castañeda.PNG)
 
 ---
 
