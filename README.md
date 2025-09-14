@@ -54,6 +54,6 @@ Los archivos de diseño en **AutoCAD (.dwg, .dxf)** se mantienen en un **reposit
 
 ---
 
-## 📬 Contacto
+## 📬 Contacto 
+gabrielce992@gmail.com
 
-Para acceder a ejemplos de planos o los archivos completos, contáctame en: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
